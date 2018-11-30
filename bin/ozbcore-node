@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var ozbcore = require('../lib/cli/bitcore');
+ozbcore();
